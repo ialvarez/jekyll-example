@@ -1,0 +1,17 @@
+# Site settings
+title: Ignacio Alvarez Blog
+email: ignacio@ignacioalvarez.es
+description: >
+    This is my personal blog of programming.
+quote: >
+    It worries me that I may not be living up to my full potential. 
+    It worries me even more that maybe I am.
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "https://ignacioalvarez.es" # the base hostname & protocol for your site
+twitter_username: bosnio 
+github_username:  ialvarez 
+linkedin_username: ignacioalvarezbarrio
+
+# Build settings
+markdown: kramdown
+keep_files: [CNAME, README.md, .git]
